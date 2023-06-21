@@ -1,0 +1,12 @@
+#langkah_langkah penyelesaian chalange vigenere
+pertama kita buka chalange tersebut lalu kita baca 
+kemudian jangan lupa kita melihat petunjuk yang di berikan karna itu sangat penting untuk kita mengetauhui dimana flag tersebut
+disitu kita mendapatkan pesan seperti ini "You have stumbled upon a suspicious piece of encrypted text. It appears to be encrypted using some cipher. Your task is to decrypt the message and uncover the hidden flag within."
+tengan ada enkripsi flag seperti ini di bawah nya Encrypted Flag: KciikmwMQ{3q_z1y3gcws_tl1h3k_u1yv_w0v35lr_i3d_t15uis}
+dan dibawah nya lagi ada  Format Flag: ForestyHC{flag}
+dan memiliki petunjuk seperti ini "Do you know the organizer of this hacker class? it will help you to find the key."
+langkah pertama kita membuka sebuah tols yang bernama vigenere chiper decoder
+kemudian kita masukkan Encrypted Flag: KciikmwMQ{3q_z1y3gcws_tl1h3k_u1yv_w0v35lr_i3d_t15uis} pada tols tersebut
+lalu masukkan key nya berupa "FORESTY" karena itu adalah petunjuk yg kita temukan tadi 
+kemudian enkripsikan text tersebut maka akan keluar flag tersebut
+ForestyHC{3z_v1g3nere_ch1p3r_w1th_f0r35ty_k3y_f15dea}
